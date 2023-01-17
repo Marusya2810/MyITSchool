@@ -324,6 +324,14 @@ padding-top: 0;
     line-height: 52px;
     }
 
+    .main-offer-products {
+        width: 768px;
+    }
+
+    .main-offer-products-header-button {
+        padding-top: 56px;
+    }
+
     .main-offer-item-bottom-2 {
         font-size: 40px;
         line-height: 52px;
@@ -478,3 +486,274 @@ font-size: 37px;
     width: 640px;
 }
 }
+
+@media (max-width:426px) {
+    
+    .header-nav-items {
+        display: inline;
+    }
+    .header .container {
+        text-align: center;
+    }
+    .header-block {
+    background-position: bottom;
+    height: 450px;
+}
+
+    .header-block-main {
+        font-size: 38px;
+        line-height: 33px;
+    }
+
+    .header-block-text {
+        margin-top: -157px;
+        padding-top: 190px;
+}
+
+.header-block-text {
+    width: 395px;
+}
+    
+.main-offer-item-1, .main-offer-item-2 {
+    width: 382px;
+    height: 228px;
+}
+
+.main-offer-text-1, .main-offer-text-2 {
+    padding-top: 20px;
+    
+}
+
+.main-offer {
+    height: 518px;
+}
+
+.about-us-text {
+    margin: 40px 0px;
+}
+
+.main-reviews{
+ background-image: none;
+
+}
+
+.main-reviews-title {
+    padding-top: 0;
+}
+
+.circles {
+    padding-left: 13px;
+}
+
+.main-offer-products {
+    width: 425px;
+}
+
+.main-offer-products-header {
+    display: inline;
+}
+
+.main-offer-products-header-button  {
+    text-align: center;
+    padding-top: 25px;
+}
+.main-eco-friendly-text {
+    width: 292px;
+    padding-top: 10px;
+}
+
+.main-eco-friendly-wrapper {
+    display: inline;
+}
+
+.main-eco-friendly {
+    height: 860px;
+}
+
+.main-food-items {
+    display: inline;
+}
+
+.main-food-item-1, .main-food-item-2, .main-food-item-3 {
+    height: 400px;
+    width: auto;
+    margin-bottom: 25px;
+}
+
+.main-food-item-img {
+    padding-top: 53px;
+}
+
+.rectangle-food a {
+    color: #274C5B;
+ 
+}
+
+.button-4 {
+    margin-top: 10px;
+    margin-left: 38px;
+}
+
+.form {
+    display: block;
+}
+
+.field {
+    text-align: center;
+}
+
+.field input {
+    padding: 0 30px; 
+}
+
+.footer-top {
+    display: block;
+    background-size: 382px 230px;
+}
+
+.footer-map {
+    width: 425px;
+} 
+
+}
+
+
+@media (max-width:376px) {
+    .header-block-text {
+        width: 350px;
+    }
+
+    .header-block {
+        height: 460px;
+        background-image: none;
+    }
+
+    .header-block-main {
+            width: 93%;
+            font-size: 41px;
+            line-height: 45px;
+        
+    }
+    .header-block-button a img {
+        width: 160px;
+
+    }
+    .header-block-main {
+        margin: 0;;
+    }
+
+    .header-block-button {
+        margin-right: 30px;
+        margin-top: 10px;
+    }
+
+    .main-offer-item-1, .main-offer-item-2 {
+        width: 337px;
+    }
+
+    .main-offer-item-bottom-1, .main-offer-item-bottom-2 {
+        font-size: 32px;
+        line-height: 28px;
+    }
+
+         .about-us-header {
+    font-size: 30px;
+    line-height: 40px;
+         }
+
+      .about-us-item-text-p {
+    font-size: 16px;
+    line-height: 27px;
+      }
+
+      .main-our-product-items {
+        justify-content: center;
+    }
+    .circles {
+        padding-left: 0px;
+    }
+
+    .main-our-product {
+        overflow: hidden;
+    }
+
+    .main-offer-products {
+        width: 375px;
+    }
+
+    .main-our-product-item-1 {
+        overflow: hidden;
+    }
+
+    .main-our-product-money {
+        justify-content: space-evenly;
+    }
+
+    .footer-map {
+        width: 375px;
+    } 
+}
+
+@media (max-width:321px) {
+.main-offer-item-1, .main-offer-item-2 {
+    width: 288px;
+}
+
+.main-offer-item-bottom-1, .main-offer-item-bottom-2 {
+    font-size: 28px;}
+
+    .main-offer {
+        height: 413px;
+    }
+
+    .main-offer-item-1 {
+        height: 180px;
+    }
+
+    .about-us-item-1, .about-us-item-2 {
+        display: block;
+    }
+
+    .about-us-main {
+        margin-bottom: 21px;
+    }
+
+    .main-our-product-money {
+        justify-content: center;
+    }
+
+    .main-our-product-item-text-1 {
+        margin-left: 15px;
+    }
+
+    .main-offer-products {
+        width: 320px;
+    }
+
+    .main-our-product-item-text-1, .main-our-product-item-text-2, .main-our-product-item-text-3 {
+        margin-left: 29px;
+    }
+
+    .main-eco-friendly-title {
+        left: -718px;
+    }
+
+    .circles {
+        margin-left: -15px;
+        display: block;
+        width: 288px;
+        margin-left: 20%;
+    }
+
+    .main-reviews {
+        height: 1547px;
+    }
+
+    .field {
+        width: 290px;
+    }
+
+    .footer-map {
+        width: 320px;
+    } 
+ }

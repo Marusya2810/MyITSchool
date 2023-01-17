@@ -471,6 +471,10 @@ color: #FFFFFF;
     padding-bottom: 40px;
 }
 
+.rectangle-food:hover {
+ background-color: #e6eaed;
+
+}
 .main-offer-products-header-button{
     padding-top: 22px;    
 }
@@ -549,6 +553,11 @@ width: 450px;
 
 .main-food-item-img a {
     text-decoration: none;
+}
+
+.rectangle-food {
+    color: #274C5B;
+ 
 }
 
 .rectangle-food {
